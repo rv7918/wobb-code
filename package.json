@@ -13,7 +13,7 @@
     "react-dom": "^16.13.1",
     "react-full-page": "^0.1.9",
     "react-page-scroller": "^2.0.7-beta",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
